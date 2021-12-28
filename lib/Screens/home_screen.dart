@@ -220,7 +220,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           size: Size(
                               width,
                               (width * 0.5833333333333334)
-                                  .toDouble()), //You can Replace [WIDTH] with your desired width for Custom Paint and height will be calculated automatically
+                                  .toDouble()),
                           painter: RPSCustomPainter(),
                         ),
                       ),
