@@ -1,4 +1,5 @@
 # bigo_task
+[![wakatime](https://wakatime.com/badge/github/hassan-zafar/bigo_task.svg)](https://wakatime.com/badge/github/hassan-zafar/bigo_task)
 <div>
     <img src="screens/bigO.png">
   </div>
