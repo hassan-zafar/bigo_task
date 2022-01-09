@@ -1,5 +1,7 @@
-# interview_bigo_task
-
+# bigo_task
+<div>
+    <img src="screens/bigO.png">
+  </div>
 A new Flutter project.
 
 ## Getting Started
